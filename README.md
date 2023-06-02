@@ -1,1 +1,3 @@
-# Diabetes-Disease-Prediction-using-Artificial-Neural-Networks-ANN-
+# Diabetes-Disease-Prediction-using-Artificial-Neural-Networks-ANN-and-XGBOOST
+
+The Diabetes Disease Prediction project aimed to develop an accurate prediction system using Artificial Neural Networks (ANN) and XGBOOST for early detection of diabetes in patients. By analyzing various medical factors such as glucose levels, insulin resistance, body mass index (BMI), and other relevant indicators, the system provided a reliable assessment of the likelihood of diabetes in individuals. This tool served as a valuable resource for healthcare professionals, enabling timely intervention and improved management of diabetes.
